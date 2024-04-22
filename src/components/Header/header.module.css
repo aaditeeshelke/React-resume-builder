@@ -5,12 +5,12 @@
     justify-content: space-between;
     align-items: center;
     background-color: aqua;
-    height: 564px;
+    height: 666px;
   }
   
   .Header_starting_content{
     flex: 4;
-    font-size: 90px;
+    font-size: 78px;
     font-weight: 600;
   }
   
